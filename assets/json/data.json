@@ -1,0 +1,29 @@
+[
+  {
+    "Brand": "KenGen",
+    "ID" : "736041",
+    "Price" : "670.00",
+    "Due" : "Due in 14 days",
+    "More" : "KenGen oil and gas company limited",
+    "Img" : "brand1.png",
+    "Status" : true
+  },
+  {
+    "Brand": "Total Petroleum",
+    "ID" : "347628",
+    "Price" : "3490.00",
+    "Due" : "Due in 4 months",
+    "More" : "Total oil and gas africa",
+    "Img" : "brand2.png",
+    "Status" : false
+  },
+  {
+    "Brand": "Airtel",
+    "ID" : "583519",
+    "Price" : "1490.00",
+    "Due" : "Due in 2 months",
+    "More" : "Unlimited data bundle and airtime",
+    "Img" : "brand3.png",
+    "Status" : false
+  }
+]
